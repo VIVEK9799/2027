@@ -166,6 +166,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   color: #177170;
   white-space: nowrap;
+  font: caption;
   transition: 0.3s;
   padding: 10px 20px 10px 20px;
 }
